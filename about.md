@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Hello World, I am Tanvir!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a first year computer science PhD student from University of Michigan, Ann Arbor. In a previous life, I was a lecturer in Bangladesh University of Engineering and Technology from where I have also obtained my undergraduate and masters degree.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+takh AT umich DOT edu, takhandipu AT gmail DOT com
