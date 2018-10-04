@@ -10,7 +10,7 @@ title: Upcoming Conferences
 </style>
 
 Computer Architecture:
----
+
 |Venue|Next conference|Abstract due|
 |---|---|---|
 |[ASPLOS](https://asplos-conference.org/)|2019-04-13|~~2018-07-31~~|
@@ -19,7 +19,7 @@ Computer Architecture:
 {: .tablelines}
 
 Computer Networks:
----
+
 |Venue|Next conference|Abstract due|
 |---|---|---|
 |[SIGCOMM](http://www.sigcomm.org/)|2019-04-03|2018-11-08|
@@ -27,7 +27,7 @@ Computer Networks:
 {: .tablelines}
 
 Computer Security:
----
+
 |Venue|Next conference|Abstract due|
 |---|---|---|
 |[CCS](https://www.sigsac.org/ccs/CCS2018/)|2018-10-15|~~2018-05-02~~|
@@ -36,7 +36,7 @@ Computer Security:
 {: .tablelines}
 
 Operating Systems:
----
+
 |Venue|Next conference|Abstract due|
 |---|---|---|
 |[OSDI](https://www.usenix.org/conference/osdi18)|2018-10-08|~~2018-04-26~~|
@@ -47,7 +47,7 @@ Operating Systems:
 {: .tablelines}
 
 Programming Languages:
----
+
 |Venue|Next conference|Abstract due|
 |---|---|---|
 |[PLDI](https://conf.researchr.org/home/pldi-2019)|2019-06-22|2018-11-09|
